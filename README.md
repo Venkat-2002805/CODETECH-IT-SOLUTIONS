@@ -8,10 +8,18 @@ TIC-TAC-TOE GAME
 
 
 
+https://github.com/Venkat-2002805/CODETECH-IT-SOLUTIONS/assets/137325861/07ccdd7b-d917-4c0f-b516-0f97494eb489
+
+
+
 
 # Basiccalculator (TASK-2)
 
 BASIC CALCULATOR
+
+
+
+https://github.com/Venkat-2002805/CODETECH-IT-SOLUTIONS/assets/137325861/ad2c5b1e-3fbb-4a76-a325-618b82b92a15
 
 
 
@@ -40,7 +48,8 @@ NumberGuessingGame
 
 
 
-https://github.com/Venkat-2002805/CODETECH-IT-SOLUTIONS/assets/137325861/999b956e-bfd9-4a53-9f50-ab1f15abf327
+
+https://github.com/Venkat-2002805/CODETECH-IT-SOLUTIONS/assets/137325861/b19e528a-d2bf-427d-9e56-4f2719a448c1
 
 
 
